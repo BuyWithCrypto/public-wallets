@@ -844,16 +844,6 @@ svg {
     display: inline-block;
     vertical-align: middle;
     margin-left: 24px; }
-    .pillBtn__icon--download {
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.99 24'%3E%3Cpath d='M21.32,21.31v-.39c0-1.18,0-2.36,0-3.53A1.33,1.33,0,0,1,24,17.06a1.54,1.54,0,0,1,0,.37c0,1.71,0,3.42,0,5.13A1.33,1.33,0,0,1,22.56,24H1.47A1.34,1.34,0,0,1,0,22.52V17.34A1.33,1.33,0,0,1,1.11,16a1.32,1.32,0,0,1,1.47.85,2.1,2.1,0,0,1,.09.61c0,1.16,0,2.31,0,3.47v.36Zm-8-7.56V7.57q0-3.09,0-6.19a1.33,1.33,0,1,0-2.65.06V14.11l-.31-.3C9.48,12.93,8.6,12,7.71,11.16A1.33,1.33,0,1,0,5.84,13L11,18.21a1.32,1.32,0,0,0,2,0L18.19,13a1.33,1.33,0,1,0-1.87-1.88c-.9.88-1.79,1.78-2.68,2.66l-.31.3Z' fill='%23c54069' /%3E%3C/svg%3E%0A");
-      background-size: contain;
-      height: 18px;
-      width: 18px; }
-    .pillBtn__icon--twitter {
-      background-image: url("data:image/svg+xml,%3Csvg class='modal__socialIcon modal__socialIcon--tw' viewBox='0 0 612 497.12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M612,58.82a250.68,250.68,0,0,1-72.09,19.77A126.11,126.11,0,0,0,595.1,9.18a253.14,253.14,0,0,1-79.78,30.48A125.64,125.64,0,0,0,301.39,154.12,356.43,356.43,0,0,1,42.64,23,125.69,125.69,0,0,0,81.5,190.53a125.55,125.55,0,0,1-56.87-15.76v1.57a125.67,125.67,0,0,0,100.69,123.1,127.2,127.2,0,0,1-33.08,4.4,120.39,120.39,0,0,1-23.63-2.33A125.61,125.61,0,0,0,185.86,388.7,251.92,251.92,0,0,1,29.94,442.35,266.59,266.59,0,0,1,0,440.63a354.91,354.91,0,0,0,192.44,56.49c231,0,357.19-191.29,357.19-357.19l-.43-16.25A250.69,250.69,0,0,0,612,58.82Z' fill='%233d6bd8' /%3E%3C/svg%3E");
-      background-size: contain;
-      height: 19px;
-      width: 24px; }
   @media (hover: hover) and (pointer: fine) {
     .pillBtn:hover {
       pointer-events: auto;
@@ -2006,11 +1996,9 @@ svg {
       width: 8px; }
     .modal__socialIcon--tw {
       width: 20px; }
-    .modal__socialIcon--red {
-      width: 36px;
-      height: 36px; }
-      .modal__socialIcon--red circle {
-        fill: transparent; }
+    .modal__socialIcon--ig {
+      width: 23px;
+      height: 23px; }
     .modal__socialIcon--email {
       width: 20px; }
   .modal__downloadHolder {
