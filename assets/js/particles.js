@@ -1,3 +1,9 @@
+/*
+Copyright 2021 BuyWithCrypto
+Website: https://www.buywithcrypto.fr/
+Github: https://github.com/BuyWithCrypto/
+*/
+
 /* eslint-disable */
 (function(global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory(require('animejs')) :

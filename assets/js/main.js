@@ -1,3 +1,9 @@
+/*
+Copyright 2021 BuyWithCrypto
+Website: https://www.buywithcrypto.fr/
+Github: https://github.com/BuyWithCrypto/
+*/
+
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
